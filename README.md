@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Kotlin Solutions
+LeetCode Kotlin and Python Solutions
